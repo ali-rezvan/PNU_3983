@@ -10,6 +10,7 @@
 
 + [علی رضوان](https://ali-rezvan.github.io/)  
   - [@ali-rezvan](https://github.com/ali-rezvan)
+  - [@ali-rezvan](https://ali-rezvan.github.io/Naive-Pattern-Searching/)
 
 <br>
 
